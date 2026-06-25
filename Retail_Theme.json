@@ -1,0 +1,60 @@
+{
+  "name": "ZS Retail Expansion Theme",
+  "background": "#F5F7FA",
+  "foreground": "#0A2540",
+  "tableAccent": "#00A6A6",
+  "dataColors": [
+    "#0A2540",
+    "#00A6A6",
+    "#2E8B57",
+    "#F4A261",
+    "#D62828",
+    "#4C78A8",
+    "#72B7B2",
+    "#54A24B",
+    "#E45756",
+    "#B279A2"
+  ],
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#0A2540" } },
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#D9E2EC" } }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#0A2540" } },
+            "fontSize": 28
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#52606D" } }
+          }
+        ]
+      }
+    }
+  }
+}
