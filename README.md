@@ -611,6 +611,7 @@ US-Retail-Expansion-Intelligence-Platform/
 │   ├── Starbucks.csv
 
 │   └── Walmart.csv
+
 │
 ├── processed_data/
 
@@ -625,6 +626,7 @@ US-Retail-Expansion-Intelligence-Platform/
 │   ├── competitor_master.csv
 
 │   └── retail_opportunity_final.csv
+
 │
 ├── scripts/
 
