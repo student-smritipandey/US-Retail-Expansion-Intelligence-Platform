@@ -635,6 +635,7 @@ US-Retail-Expansion-Intelligence-Platform/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
 🚀 Future Improvements
 
 Integrate additional retail brands for deeper competitor analysis.
