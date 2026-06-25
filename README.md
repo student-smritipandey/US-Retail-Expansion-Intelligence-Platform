@@ -565,22 +565,40 @@ The dashboard enables retailers to:
 
 
 # 🛠 Tech Stack
+
 Data Processing
+
 Python
+
 Pandas
+
 NumPy
+
 Data Analysis
+
 Feature Engineering
+
 Min-Max Scaling
+
 Business Scoring Models
+
 Visualization
+
 Power BI Desktop
+
+
 Data Sources
+
 US Census Bureau
+
 USDA Economic Research Service
+
 Kaggle
+
 📂 Project Structure
+
 US-Retail-Expansion-Intelligence-Platform/
+
 │
 ├── data/
 │   ├── PopulationEstimates.csv
@@ -618,10 +636,15 @@ US-Retail-Expansion-Intelligence-Platform/
 ├── README.md
 └── .gitignore
 🚀 Future Improvements
+
 Integrate additional retail brands for deeper competitor analysis.
+
 Incorporate median household income data.
+
 Add population growth forecasting.
+
 Build predictive ML models for future expansion opportunities.
+
 Deploy dashboard online using Power BI Service.
 # 👩‍💻 Author
 
