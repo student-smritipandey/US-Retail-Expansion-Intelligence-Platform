@@ -645,16 +645,19 @@ US-Retail-Expansion-Intelligence-Platform/
 │   ├── merge_competitors.py
 
 │   └── opportunity_score.py
+
 │
 ├── dashboard/
 
 │   └── Retail_Expansion_Dashboard.pbix
+
 │
 ├── screenshots/
 
 │   ├── dashboard_page1.png
 
 │   └── dashboard_page2.png
+
 │
 ├── requirements.txt
 
