@@ -601,39 +601,63 @@ US-Retail-Expansion-Intelligence-Platform/
 
 │
 ├── data/
+
 │   ├── PopulationEstimates.csv
+
 │   ├── Education.csv
+
 │   ├── Unemployment.csv
+
 │   ├── Starbucks.csv
+
 │   └── Walmart.csv
 │
 ├── processed_data/
+
 │   ├── population_final.csv
+
 │   ├── education_final.csv
+
 │   ├── unemployment_final.csv
+
 │   ├── master_county_only.csv
+
 │   ├── competitor_master.csv
+
 │   └── retail_opportunity_final.csv
 │
 ├── scripts/
+
 │   ├── clean_population.py
+
 │   ├── clean_education.py
+
 │   ├── clean_unemployment.py
+
 │   ├── clean_starbucks.py
+
 │   ├── clean_walmart.py
+
 │   ├── merge_master.py
+
 │   ├── merge_competitors.py
+
 │   └── opportunity_score.py
 │
 ├── dashboard/
+
 │   └── Retail_Expansion_Dashboard.pbix
 │
 ├── screenshots/
+
 │   ├── dashboard_page1.png
+
 │   └── dashboard_page2.png
 │
 ├── requirements.txt
+
 ├── README.md
+
 └── .gitignore
 
 🚀 Future Improvements
